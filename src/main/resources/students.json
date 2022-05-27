@@ -1,0 +1,50 @@
+[
+  {
+    "studentId": "ST001",
+    "studentName" : "Nia",
+    "departmentId": "DP001",
+    "mark": 35
+  },
+  {
+    "studentId": "ST002",
+    "studentName" : "Malik",
+    "departmentId": "DP001",
+    "mark": 70
+  },
+  {
+    "studentId": "ST003",
+    "studentName" : "Andi",
+    "departmentId": "DP001",
+    "mark": 60
+  },
+  {
+    "studentId": "ST004",
+    "studentName": "Louis",
+    "departmentId": "DP001",
+    "mark": 90
+  },
+  {
+    "studentId": "ST005",
+    "studentName": "Vira",
+    "departmentId": "DP002",
+    "mark": 30
+  },
+  {
+    "studentId": "ST006",
+    "studentName": "Rara",
+    "departmentId": "DP003",
+    "mark": 32
+  },
+  {
+    "studentId": "ST007",
+    "studentName": "Amanda",
+    "departmentId": "DP003",
+    "mark": 70
+  },
+  {
+    "studentId": "ST008",
+    "studentName": "Nessie",
+    "departmentId": "DP003",
+    "mark": 20
+  }
+]
